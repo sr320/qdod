@@ -26,10 +26,17 @@ Example wget command for retrieving SRA files via Study Number:
     wget -r -no-check-certificate --reject="index.html" --secure-protocol=auto -e robots=off --wait=10 http://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByStudy/sra/SRP/SRP029/SRP029373/
 
 Code explanation:
+
 wget - Starts wget program.
+
 -r - Tells wget to download files recursively (i.e. maintaining directory structure).
+
 -no-check-certificate - Tells wget to not check the NCBI server's security certificate.
+
 --reject="index.html" - Tells wget to not download any files titled: index.html
+
 --secure-protocol=auto - Tells wget to decide to use a secure connection to the NCBI server.
+
 -e robots=off - Tells wget to ignore the "robots.txt" file on the server. The "robots.txt" file prevents webcrawlers from using too many server resources, which wget normally respects.
+
 --wait=10 - Tells wget to wait 10 seconds between each attempt to retrieve files.  This reduces load on the NCBI server.
