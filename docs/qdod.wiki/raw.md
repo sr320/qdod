@@ -26,8 +26,15 @@ This respository provides access to genomic data and workflows (IPython notebook
 ---
 
 #### Select Genomic Data in NCBI
-[NCBI SRA] [_Crassostrea gigas_ MBD bisulfite sequencing – gill](http://www.ncbi.nlm.nih.gov/sra/SRX327373)   [NCBI SRA] [*Crassostrea gigas* RNA-seq – gill](http://www.ncbi.nlm.nih.gov/sra/SRX367081)   [NCBI SRA] [*Crassostrea gigas* RNA-seq – male gonad](http://www.ncbi.nlm.nih.gov/sra/SRX3903468)   [NCBI SRA] [*Crassostrea gigas* bisulfite sequencing – male gonad](http://www.ncbi.nlm.nih.gov/sra/SRX386228)  
----
-#### Select Genomic Feature Tracks
- 
+[NCBI SRA] [_Crassostrea gigas_ MBD bisulfite sequencing – gill](http://www.ncbi.nlm.nih.gov/sra/SRX327373)   
+[NCBI SRA] [*Crassostrea gigas* RNA-seq – gill](http://www.ncbi.nlm.nih.gov/sra/SRX367081)   
+[NCBI SRA] [*Crassostrea gigas* RNA-seq – male gonad](http://www.ncbi.nlm.nih.gov/sra/SRX3903468)   
+[NCBI SRA] [*Crassostrea gigas* bisulfite sequencing – male gonad](http://www.ncbi.nlm.nih.gov/sra/SRX386228)  
+
+
+---
+
+#### Select Genomic Feature Tracks
+
+ 
 
