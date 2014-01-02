@@ -17,3 +17,4 @@ B. Datasets in SQLShare
 
 C. Tutorials
 * [Standard SQLShare Queries](https://github.com/sr320/qdod/wiki/Standard-Queries)
+* [Annotating Genes](https://github.com/sr320/qdod/wiki/Workflow-1:-Annotating-Oyster-Genes)
