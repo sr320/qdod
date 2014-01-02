@@ -16,3 +16,4 @@ B. Datasets in SQLShare
 
 
 C. Tutorials
+* [Standard SQLShare Queries](https://github.com/sr320/qdod/wiki/Standard-Queries)
