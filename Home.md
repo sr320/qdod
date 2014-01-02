@@ -7,6 +7,7 @@ In brief, data in the form of delimited text files is aggregated into [SQLShare]
 Currently the documentation is focused on 1) **describing current datasets** and 2) **providing workflow tutorials**.
 
 A. Raw Data
+* [Select Data via Roberts Lab](https://github.com/sr320/qdod/wiki/Roberts-Lab-Raw-Data)
 
 
 B. Datasets in SQLShare
