@@ -1,4 +1,4 @@
-This wiki serves as the _primary means for documentation_ for qDOD. 
+This wiki serves as the _primary means for documentation_ for qDOD: querying disparate oyster datasets.
 
 In brief, data in the form of delimited text files is aggregated into [SQLShare](https://sqlshare.escience.washington.edu/sqlshare/) where they can be easily queried. Below is schematic representation of the different types of datasets.
 
