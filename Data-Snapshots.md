@@ -1,4 +1,3 @@
-#Snapshots of qDOD datasets on SQLShare
 
 Select datasets available from SQLShare. Tag: `qdod2`    
 <https://sqlshare.escience.washington.edu/sqlshare/#s=tag/qdod2>
