@@ -10,8 +10,8 @@ A. Raw Data
 
 
 B. Datasets in SQLShare
+* [General Oyster Datasets](https://github.com/sr320/qdod/wiki/Data-Snapshots#general)
+* [Tissue Specific Oyster Datasets](https://github.com/sr320/qdod/wiki/Data-Snapshots#tissue-specific)
 
 
 C. Tutorials
-
-
