@@ -27,5 +27,5 @@
 ---
 
 #### Select Genomic Feature Tracks
-
+<iframe src="http://wl.figshare.com/articles/749728/embed?show_title=1" width="568" height="239" frameborder="0"></iframe>
  
