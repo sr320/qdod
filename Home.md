@@ -1,6 +1,6 @@
 This wiki serves as the _primary means for documentation_ for project qdod: **querying disparate oyster datasets**.
 
-In brief, data in the form of delimited text files is aggregated into [SQLShare](https://sqlshare.escience.washington.edu/sqlshare/) where they can be easily queried. The simplest way to start exploring the uses for this system is to interact with SQLShare using the simple web interface. All you need to get started is a Google account. [Please see this page] for a beginner's guide to SQLshare.
+In brief, data in the form of delimited text files is aggregated into [SQLShare](https://sqlshare.escience.washington.edu/sqlshare/) where they can be easily queried. The simplest way to start exploring the uses for this system is to interact with SQLShare using the simple web interface. All you need to get started is a Google account. [Please see this page for a beginner's guide to SQLshare](https://github.com/sr320/qdod/wiki/SQLShare-Intro).
 
 There is a python client for advanced users.
 
