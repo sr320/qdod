@@ -44,3 +44,6 @@ File descriptions:
 [BiGill_igv_charlie.xml](http://files.figshare.com/1252770/BiGill_igv_charlie.xml) - A session file, which loads methylation and RNA-seq feature tracks as well as the location of C.gigas genome features.   
 
 [Query to derive_CG_AllData_IGV.txt](http://files.figshare.com/1252771/Query_to_derive_CG_AllData_IGV.txt) - Query (SQLShare) used to derive the methylation feature track from the original methratio output (http://goo.gl/5LGq9Q)
+
+Screenshot
+![shot](http://eagle.fish.washington.edu/cnidarian/skitch/IGV_-_Session__http__eagle.fish.washington.edu_trilobite_Crassostrea_gigas_v9_tracks_BiGill_igv_charlie.xml_180F2D2E.png)
