@@ -15,6 +15,7 @@ A. Raw Data
 
 
 B. Datasets in SQLShare
+* [Universal](https://github.com/sr320/qdod/wiki/Data-Snapshots#universal)
 * [Generic Oyster Datasets](https://github.com/sr320/qdod/wiki/Data-Snapshots#general)
 * [Tissue Specific Oyster Datasets](https://github.com/sr320/qdod/wiki/Data-Snapshots#tissue-specific)
 
