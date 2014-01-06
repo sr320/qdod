@@ -1,4 +1,4 @@
-NRPSP8 Aquaculture Project Update: A flexible platform for querying disparate oyster datasets (qDOD)
+NRSP8 Aquaculture Project Update: A flexible platform for querying disparate oyster datasets (qDOD)
 
 
 
