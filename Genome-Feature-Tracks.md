@@ -21,6 +21,9 @@ http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_v9_tracks/Cgigas_v9
 All CGs
 http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_v9_tracks/Cgigas_v9_CG.gff
 
+Screenshot:  
+![shot](http://eagle.fish.washington.edu/cnidarian/skitch/IGV_-_Session__http__eagle.fish.washington.edu_cnidarian_igv_session_073013.xml_and_sr320_—_igv.command_—_java_—_80×24_187B2E46.png)   
+
 _Complete details regarding the development of these tracks can be found in [this IPython Notebook](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/TJGR_OysterGenome_IGV.ipynb) as well as in this [methods section](https://peerj.com/articles/215/#p-7)._
 
 
