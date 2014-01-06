@@ -5,7 +5,7 @@ Select datasets available from SQLShare. Tag: `qdod2`
 Dataset | Screenshot | more
 --- | --- | ---
 [UniprotProtNamesReviewed_yes20130610](https://sqlshare.escience.washington.edu/sqlshare/#s=query/samwhite%40washington.edu/UniprotProtNamesReviewed_yes20130610)| ![screenshot](http://eagle.fish.washington.edu/cnidarian/skitch/SQLShare_-_View_Query_187B2554.png) | etc
-
+[SPID and GO Numbers](https://sqlshare.escience.washington.edu/sqlshare/#s=query/sr320%40washington.edu/SPID%20and%20GO%20Numbers)| ![screenshot](http://eagle.fish.washington.edu/cnidarian/skitch/SQLShare_-_View_Query_187B2638.png) | etc
 
 ##General Oyster
 Dataset | Screenshot | more
