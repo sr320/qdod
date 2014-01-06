@@ -24,6 +24,7 @@ C. Tutorials
 * [Simple Gene Search](http://nbviewer.ipython.org/github/sr320/qdod/blob/master/search_ampk.ipynb)
 * [Standard SQLShare Queries](https://github.com/sr320/qdod/wiki/Standard-Queries)
 * [Annotating Genes](https://github.com/sr320/qdod/wiki/Workflow-1:-Annotating-Oyster-Genes)  
+* [File Format Conversions](https://github.com/sr320/qdod/wiki/File-Format-Conversions)   
 
 D. Genome Browser Feature Tracks
 * [Canonical Tracks](https://github.com/sr320/qdod/wiki/Genome-Feature-Tracks#canonical-feature-tracks)
