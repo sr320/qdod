@@ -12,7 +12,8 @@ In brief, data in the form of delimited text files is aggregated into [SQLShare]
  During the initial phases the focus is on the Pacific oyster and primary data from the [Roberts Lab](http://faculty.washington.edu/sr320).
 
 ##Select IPython Notebooks##
-
+- [Static Data Tables - Universal](http://nbviewer.ipython.org/github/sr320/qdod/blob/master/Static%20Data%20Tables%20-%20Universal.ipynb)
+- [Static Data Tables - Annotations](http://nbviewer.ipython.org/github/sr320/qdod/blob/master/Static%20Data%20Tables%20-%20Annotations.ipynb)
 
 
 
