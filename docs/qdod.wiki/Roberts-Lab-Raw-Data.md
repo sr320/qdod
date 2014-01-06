@@ -1,11 +1,3 @@
-qdod: Querying Disparate Oyster Datasets
-====
-
-This respository provides access to genomic data and workflows (IPython notebooks) that are being integrated as part of effort to increase effeciency of biological discovery. During the initial phases the focus is on the Pacific oyster and primary data from the [Roberts Lab](http://faculty.washington.edu/sr320).
-
-
-##Raw Data
-
 #### Select Genomic Data
 
 | ID                      | Platform | Molecule | Tissue | Length | Files                                                                                                         |
@@ -21,7 +13,7 @@ This respository provides access to genomic data and workflows (IPython notebook
 | ETStagseq               | Illumina | RNA           | gill             |             | [zip](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/ETS_tagseq.zip)                              |
 | BiGosperm               | Illumina | DNA           | sperm            | 72 x 2      | [fastq1](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/filtered_174gm_A_NoIndex_L006_R1.fastq); [fastq2](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/filtered_174gm_A_NoIndex_L006_R2.fastq)      |
 | BiGillRNA               | Illumina | RNA           | gill             | 50 x 2      | [fastq1](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGillRNA_GACTAAGA_1.fastq); [fastq2](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGillRNA_GACTAAGA_2.fastq) 
-| BiGoRNA                 | Illumina | RNA           | sperm            | 50 x 2      | [fastq1](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGillRNA_GACTAAGA_1.fastq); [fastq2](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGillRNA_GACTAAGA_2.fastq) 
+| BiGoRNA                 | Illumina | RNA           | sperm            | 50 x 2      | [fastq1](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGoRNA_GTGTCTAC_1.fastq); [fastq2](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGoRNA_GTGTCTAC_2.fastq) 
 
 ---
 
@@ -35,6 +27,5 @@ This respository provides access to genomic data and workflows (IPython notebook
 ---
 
 #### Select Genomic Feature Tracks
-
+<iframe src="http://wl.figshare.com/articles/749728/embed?show_title=1" width="568" height="239" frameborder="0"></iframe>
  
-

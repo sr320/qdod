@@ -1,4 +1,3 @@
-#SQLShare Intro
 
 This is the website
 `https://sqlshare.escience.washington.edu`
@@ -44,7 +43,7 @@ And from here you can Save or simply download the joined table.
 
 
 
-Explaination of code
+Explanation of code
 
 ```
 SELECT *    
@@ -57,6 +56,5 @@ blast.Column3 = unp.SPID​
 ```
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/Run_Query_187B1B37.png" alt="Run_Query_187B1B37.png" width = 100%/>
-
 
 
