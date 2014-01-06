@@ -24,3 +24,8 @@ C. Tutorials
 * [Simple Gene Search](http://nbviewer.ipython.org/github/sr320/qdod/blob/master/search_ampk.ipynb)
 * [Standard SQLShare Queries](https://github.com/sr320/qdod/wiki/Standard-Queries)
 * [Annotating Genes](https://github.com/sr320/qdod/wiki/Workflow-1:-Annotating-Oyster-Genes)
+
+
+***
+
+Please use [GitHub's Issue feature](https://github.com/sr320/qdod/issues) to ask question, report problems, or suggest features.
