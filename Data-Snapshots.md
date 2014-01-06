@@ -1,8 +1,13 @@
-
 Select datasets available from SQLShare. Tag: `qdod2`    
 <https://sqlshare.escience.washington.edu/sqlshare/#s=tag/qdod2>
 
-##General
+##Universal
+Dataset | Screenshot | more
+--- | --- | ---
+[UniprotProtNamesReviewed_yes20130610](https://sqlshare.escience.washington.edu/sqlshare/#s=query/samwhite%40washington.edu/UniprotProtNamesReviewed_yes20130610)| ![screenshot](http://eagle.fish.washington.edu/cnidarian/skitch/SQLShare_-_View_Query_187B2554.png) | etc
+
+
+##General Oyster
 Dataset | Screenshot | more
 --- | --- | ---
 [qDOD_v9_gene](https://sqlshare.escience.washington.edu/sqlshare/#s=query/sr320%40washington.edu/qDOD_v9_gene)| ![screenshot](http://eagle.fish.washington.edu/cnidarian/skitch/SQLShare_-_View_Query_1875ED4C.png) | etc
