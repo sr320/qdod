@@ -6,7 +6,7 @@ This respository provides access to genomic data and workflows (IPython notebook
 
 In brief, data in the form of delimited text files is aggregated into [SQLShare](https://sqlshare.escience.washington.edu/sqlshare/) where they can be easily queried. Below is schematic representation of the different types of datasets.
 
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Screenshot_7_3_13_7_22_AM.png__1103×753__18761B72.png" alt="Screenshot_7_3_13_7_22_AM.png__1103×753__18761B72.png" width = 75%/>
+<img src="https://github.com/sr320/qdod/blob/master/img/scheme.png?raw=true" width = 75%/>
 
 
  During the initial phases the focus is on the Pacific oyster and primary data from the [Roberts Lab](http://faculty.washington.edu/sr320).
