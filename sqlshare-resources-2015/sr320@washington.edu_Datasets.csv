@@ -1,0 +1,371 @@
+name, is_public
+DML-genes, Yes
+qDOD-Ensembl-annotation, Yes
+exon_intersect_DML_dev_wb, Yes
+intron_intersect_DML_dev_wb, Yes
+intron_intersect_DML_lin_wb, Yes
+exon_intersect_DML_lin_wb, Yes
+GeoF-Annotation-SP-join-F-M-match, Yes
+Snapshot of GeoF-full-annotation, Yes
+GeoFemale-Specific-Annotation, Yes
+Geo-Female-full-with-Match-join, No
+Geo_Female-full-Annotation, Yes
+YEmixDMR-gene, Yes
+Pgen_blastx_uniprot_sql.tab, Yes
+Past_blastx_uniprot.sql.tab, No
+GenesOverlap_Msp100to300, Yes
+Phel_blastx_Pm_e50, Yes
+sigenae_cgigas_all_contigs_1, Yes
+sigenae_cgigas_all_contigs.tab, Yes
+OlyO transcriptome v3 swiss-prot Blast, Yes
+Cgigas_v9_gene--ID, No
+_cuffdiffgenes.sorted_by_expression.sig.txt, No
+_rebuilt.gtf.geneIDend, No
+Cgigas-HS-count.txt, Yes
+Cgigas-DEGlist-GOdesc, Yes
+Cgigas-RNAseq-HS-goslim, Yes
+Cgigas-DEGlist-sql, Yes
+Piura_v1_uniprot_sprot_SQLshare.tab, Yes
+Piura_v1_GOslim.sorted, Yes
+Piura_v1_CpG.sorted, Yes
+Piura_v1_uniprot_sprot_sql.tab, Yes
+_blast_sprot, No
+_!dateuniprot, No
+_~/Desktop/Piura_wd/uniprot, No
+_uniprot, No
+merc_ID_CpG_1.tab, Yes
+merc_slim, No
+merc_ID_CpG, No
+Phel_uniprot_sprot_sql.tab, Yes
+TE_CGI_b.txt, No
+TE_WUBonly_CGI_b.txt, No
+Phelv3_uniprot_sprot_sql.tab, No
+Phel_uniprot_sprot_sq.tab, Yes
+Phel_clc_wID_info, Yes
+Phel_sig_normalized_exp, Yes
+Phel_deseq2_sig_results_c, Yes
+Phel_DESeq2_outff.tab, Yes
+Dheilly_s2_sig6sig9_join, Yes
+Dheilly_S1_v9_join, Yes
+Sig6_blastn_Sig9, Yes
+qDOD_Cgigas_GOslim_DISTINCT, Yes
+gene_intersect_TE_c2g.txt, Yes
+gene_intersect_DML_lin_wb_b.txt, No
+gene_intersect_DML_dev_wb_b.txt, No
+br_cglarv_day5.txt, No
+br_cglarv_day3.txt, No
+br_cglarv_sperm.txt, No
+sq_cglarv_lineage_3.txt, No
+sq_cglarv_lineage_1.txt, No
+sqlr_T3D3.txt, No
+sqlr_T1D3.txt, No
+sqlr_M3.txt, No
+_cast_lineage_1, No
+cg_lineage_1, No
+_lineage_1, No
+sqlr_T3D5.txt, No
+sqlr_T1D5.txt, No
+sqlr_M1.txt, No
+sqlrT3D5.txt, No
+sqlrT3D3.txt, No
+sqlrT1D5.txt, No
+sqlrT1D3.txt, No
+sqlrM3.txt, No
+filt_YE_mix_22smCG3x, No
+filt_YE_control_22smCG3x, No
+filt_YE_mix_22smCG5x, No
+filt_YE_control_22smCG5x, No
+Cgigas_ensembl_tsv22, Yes
+Cgigas_HSarray_hyper_genes, No
+Cgigas_HSarray_hypo_genes, No
+JB_mRNAtaxid6580_P, Yes
+Snapshot_mRNA taxid6580 joined_uniprot_sprot2, Yes
+Snapshot of mRNA taxid6580 joined_uniprot_sprot2, Yes
+filtM1_M3_bothgreater5, No
+filt3M1_M3_CGfeature, No
+filt3_T3D5, Yes
+filt3_T3D3, Yes
+filt3_T1D5, Yes
+filt3_T1D3, Yes
+CG_Ensembl_featurejoin, Yes
+filt3_M1, Yes
+filt3_M3, Yes
+_co_M1_master, No
+CGannot_Ensembl_feat, Yes
+Dheilly_Female_File_S3expresssion, Yes
+Dheilly_Female_File_S3stats, Yes
+Dheilly_DiffGametogenesis_File_S2, Yes
+Dheilly_SexSpecific_File_S1, Yes
+BiGoRNAseq_GPL11353_v6ref, Yes
+BiGoRNA_array_v6, Yes
+Cg_Sigenae6_transcriptome, Yes
+Cgigas_EST_Nuc_NCBI_040414_cl, No
+Cgigas_EST_NCBI_040414_cl, Yes
+GPL11353_array, Yes
+BiGoLarvae_DMR2, Yes
+BiGoLarvae_DMR, Yes
+BiGoRNA_genetable_clc, No
+filt_methratio_CgM1_id, Yes
+filt_methratio_CgM3, No
+filt_methratio_CgM1, No
+scratch_methratio_out, No
+lft_BlackAbalone_v3_genehunt, Yes
+lft_CLC_count, Yes
+lft_BlackAbalone_v3_tab, Yes
+lft_BlackAbalone_v3_SP_GO_pathway, Yes
+fish546_DEgene_out, No
+_ETS_PN, Yes
+fish546_OlyMFdeg.txt, Yes
+qdod_proteome_blast_mouse, No
+scratchpie, Yes
+PieTest, Yes
+scratchjoin_slim, Yes
+scratchblast_out, No
+scratchblastx_out, No
+uniprot_sprot_r2013_12_blastx_out, No
+scratchblast2_out.tab, No
+scratchblast_out.tab, No
+test_uniprot_blastx_out, No
+ETS_oaTable_S3, Yes
+uniprot-reviewed_wGO_010714, Yes
+gp_association_goa_uniprot_121113, Yes
+Mix54methratio_final, Yes
+BiGo_mito_cleam, No
+BiGo_mito_methratio_A.txt, Yes
+DMRmgavery_mRNA_annotated, No
+EY_mixmethratio_3.txt, No
+qDOD_v9_gene, Yes
+OABS_ETS_S3, Yes
+_BiGo_lar_joineddata_sums.csv, No
+_BiGo_lar Joined data, No
+BiGo_lar_nonred_ID split, Yes
+OABS_ETS_Table S3, Yes
+Snapshot of BiGo_Larvae_joineddata, No
+BiGo_Larvae_joineddata, Yes
+_BiGo_lar_T3D5_hack, No
+_BiGo_lar_T3D3_hack, No
+_BiGo_lar_M3_hack, No
+_BiGo_lar_T1D5_hack, No
+_BiGo_lar_T1D3_hack, No
+_BiGo_lar_M1_hack, No
+_BiGo_lar_nonred_ID.txt, No
+_qdod_goslim_graphtest, Yes
+_methylkit_T1D3_step1, No
+_M1_methykit_step1, No
+BiGo_lar_T3D5, No
+SNP_RNAseqLibary_SB_BiGill, Yes
+_T3D3_methylkit_s2, No
+_T3D3_methylkit_s1, No
+_M3mehthykit_step2, No
+_M3methylkit_s1, No
+BiGill_meth_Zhang_exp, Yes
+RNA-Seq_BB3, Yes
+RNA-Seq_MBDunmeth_g, Yes
+RNA-Seq_MBDmeth_g, Yes
+_bigillexonexp_igv, No
+_BiGillExp_withMeth, No
+_Bigill exon minexp, No
+_BiGill_exon_stdev_avg, No
+_bigill percent methtxt, No
+_BiGill RNaEXON min 4, No
+BiGill_exonexp_gene.txt, Yes
+_bigill_var.csv, No
+_Bigill exon rpkm, No
+_BiGill RNAseq clean, No
+BiGo_lar_T3D3, No
+_BiGoM3cg5, No
+BiGo_lar_F, No
+BiGo_lar_M1, No
+BiGo_lar_T1D5, No
+BiGo_lar_T1D3, No
+BiGo_lar_M3, No
+/Volumes/web/cnidarian/BiGo_lar_M3_methratio_v9_A.txt, No
+RNA-Seq_DH3, Yes
+RNA-Seq_DH2, Yes
+/Volumes/web/cnidarian/qdod2/RNA-Seq_DH2.csv, No
+2800m_enrich3, No
+2800m_enrich2, No
+OA_enrich2, No
+OA_enrich, No
+/Volumes/web/cnidarian/mod_chart_5798883FE3B71379515409036.txt, No
+BiGo_pro_island1u_intersect_mCpG_slm.csv, No
+BiGo_gene_PerMeth.txt, No
+BiGo_prom_subgene_PerMeth.txt, No
+TJGR_prom_subgene_CGcount.txt, No
+BiGo_prom_subgene_mCGcount.txt, No
+BiGo_RNAseq_genes, No
+BiGo_pro_island1u_intersect_mCpG.txt, No
+ExpressedGeneGil.txt, No
+BiGill_pro_island1u_intersect_mCpG_mod.txt, No
+file0, No
+ExpressedGene_methstats, No
+BiGill meth with SP, No
+TJGR_CCD_domain_concise_Superfamily_def, Yes
+Cgigas_gill_HTbisulfiteSeq_CG_methylated.txt, No
+BiGill_RNAseq_exon, No
+BiGill_ThBAM_cov_exon_2.txt, No
+lft_BlackAbalone_v3_nt_blastout_taxa3, Yes
+Snapshot_SPID and GO Numbers, No
+BiGo_RNAseq_unmapped_nt_blastout_taxa2, Yes
+BiGoRNAseq_exon_exp_1, No
+Cgigas_v9_1k5p_gene_promoter.gff, No
+Cgigas_v9_intron.gff, No
+OAMS_Skyline_p2_c_, Yes
+OAMS_SkylineData.csv, Yes
+BiGo_methratio_GFF_boop, Yes
+lft_BlackAbalone_v3_GO, Yes
+lft_BlackAbalone_v3_swissprot_blastout_d, Yes
+Cgigas_larvae_RNAseq_OsHV_GO, Yes
+qDOD_Cgigas_GO_GOslim_DISTINCT, Yes
+Cgigas Larvae RNA-Seq OsHV UR10, Yes
+Cgigas Larvae RNA-Seq OsHV, Yes
+solid0078_20091105_RobertsLab_GE_F3 trimmed RNA-Seq.txt, Yes
+clean_BiGill_methratio_v9_A, Yes
+mCG_BiGo_methratio, Yes
+clean_BiGo_methratio_v1, Yes
+RobertsLab_PrimerDatabase, Yes
+SNAPSHOT2, No
+Ruphi Enriched Genes, Yes
+CLCvExcel_RuphiRNAseq, Yes
+CLC_Ruphi_400_1000.csv, No
+Ruphi_RNAseq_supp, No
+sr primer 1 methylation status.csv, No
+Zhang_Mgo_gene_RNA-seq_IGV, Yes
+Zhang_Gil_gene_RNA-seq_IGV, Yes
+BiGO_betty_methratio_v1_IGV, Yes
+Mgo_RNAseq_transcript_IGV, Yes
+BiGill_methratio_v9_IGV, Yes
+BiGO_Methylation5x_oysterv9_GFF, Yes
+atest, No
+test, No
+/Users/sr320/Dropbox/Steven/LT_UniqueCounts.txt, No
+BiGill_methratio_v9_A_GFF, Yes
+BiGill_methratio_Gene_Genomic_GFF, Yes
+TJGR_GeneBased_CDS_GFF, Yes
+BiGill_Gene_Methratio_VD_ready, Yes
+BiGill_Gene_Methratio_VD_rmdup.csv, No
+BiGill_Gene_Methratio_VD, Yes
+TJGR_genomic_gene_FS.fa, No
+BiGO_Methylation_oysterv9_GFF, Yes
+BiGill_methratio_gene_genomic_F.txt, No
+CDS GFF with Gene start and stop, Yes
+Snapshot of CDS GFF, No
+oyster_v9_CDS GFF, Yes
+oyster_v9_mRNA GFF, Yes
+New table snapshot, Yes
+Cgigas gene length, No
+Methratio with GO, Yes
+Gill Methratio with mCG_locale_fraction, Yes
+Gill Methratio with genomic seq length, No
+Making Picture 500, Yes
+Making Picture 2000, Yes
+Making Pictures, No
+meth_combinedCG_mRNA.txt, Yes
+qDOD_gene_length, Yes
+qDOD_scaffold_length, Yes
+SP_QPXv017_tblastn.txt, No
+qDOD_RepeatMasker_v9_gff, Yes
+qDOD_RepeatProteinMask_v9, Yes
+SRtest, No
+dmr with GO slim, No
+DMR2, No
+BiGO_CG_Gal_17, No
+Ruphi_RNASeq_OA, Yes
+BiGill_methratio_v9_A.txt, Yes
+Ostrea_lurida_transcriptome, Yes
+Ostrea_lurida_SNP, Yes
+Ostrea_lurida_bitscores, Yes
+Ostrea_lurida_GO, Yes
+Ostrea_lurida_SPID, Yes
+qDOD_scaffold_sequence.txt, Yes
+qDOD_Protein_Sequences, Yes
+qDOD_oyster_gene_exon_number, Yes
+Snapshot of Stress Query, No
+qDOD_Cgigas_GO_GOslim, Yes
+qDOD_TJGR_TE_oysterv9_90, Yes
+Mgo_RNAseq_transcript, Yes
+QPX_Experiment_UniqueReads_simple.txt, No
+QPX_CLC_experiment_Kal_tab.txt, No
+ETS_NSAF_oysters, Yes
+ETS_Enriched_DAVID_GO, Yes
+qDOD_Zhang_Mgo_gene_RNA-seq, Yes
+qDOD_Zhang_Gil_gene_RNA-seq, Yes
+qDOD_Cgigas_gene_fasta, Yes
+qDOD Cgigas Gene Descriptions (Swiss-prot), Yes
+Jaketable, Yes
+ETS Annotated Proteins, No
+SPID and GO Numbers, Yes
+mod7_fish546_sp, No
+mod7_blastout_sp.txt, No
+Sperm_Done_2, Yes
+TJGR_Sperm_Methylation_info_gene, No
+MgoTophat_coverage_CDS_summ_cv, Yes
+MgoTophat_cov_CDS_Summary Stats, No
+TJGR_MgoTophat_coverage_CDS.txt, No
+Gill_Done_2, Yes
+Gill_Done, No
+Zhang_Gil, No
+TJGR_Gill_meth_CDSexpression_gene, Yes
+TJGR_Gil_cov_CDS_stats_cv, Yes
+TJGR_Gill_percentMeth_gene, Yes
+Join_mRNA_allCG_mCpG, No
+CDS_intersect_all CG sum, No
+TJGR_CDS_intersect_allCpG, No
+TJGR_mRNA_intersect_allCpG, No
+Gill_CDS_mCpG_count, No
+TJGR_CDS_intersect_gillMBDmCpG, No
+TJGR_mRNA_intersect_gillMBDmCpG, No
+Gill_exp_cds_summ_avgg0, No
+Gil_Exp_coverage_CDS_SummaryStats, Yes
+TJGR_Gil_Exp_TH_coverage_CDS, Yes
+AggCo_JOIN_Zhang_slim, Yes
+AggCo_JOIN_Zhang, No
+CpGMeth_clusters_100_4_v9_90_closest_mRNA LESS100, No
+TJGR_Gene_SPID_evalue_GO_bigfile, Yes
+CpGMeth_clusters_100_4_v9_90_closest_mRNA gene, No
+mRNA_intersect_mCpGovSNP with >10, No
+mRNA_intersect_mCpGovSNP with gene names, Yes
+mRNA_intersect_mCpGovSNP, Yes
+mCpG_5x50_over_MgoSNP, Yes
+mCpG_5x50_closest_MgoSNP, Yes
+MgoTophat_cover_CDS_20x, Yes
+MgoTophat_cover_CDS_split_B, No
+CpGMeth_clusters_100_4_v9_90_closest_mRNA, Yes
+Zhang_etal_SuppTable14, Yes
+BSoysterGENE, No
+TJGR_Gene_SPID_evalue_Description, Yes
+AggCo Oyster Bisulfite mRNA and CDS, Yes
+Combined Oyster Bisulfite mRNA and CDS, Yes
+mCpG data table, Yes
+NON_mCpG data table, Yes
+Stats_CDS_int_NOmCpG, Yes
+fish546TJGR_mRNA_int_mCpG_2, Yes
+Stats_CDS_int_mCpG, Yes
+SUM_CDS_int_mCpG, Yes
+fish546TJGR_CDS_int_mCpG_2, Yes
+fish546TJGR_CDS_int_NOmCpG_2, Yes
+fish546TJGR_mRNA_int_NOmCpG_2, Yes
+fish546_Mod5, Yes
+fish546 Mod4 Blast Join1, No
+fish546_module4_blast_v2.csv, Yes
+ID_agg, No
+fish546_module4_blast.csv, Yes
+Fasta_stats_1, Yes
+fish546 module 2 blast; GO, No
+fish536 module 2 : Blast and GOA join, Yes
+SP.txt, Yes
+fish546_mod3_vizdeck, Yes
+fish546_mod3_slim, Yes
+Billy, Yes
+SaveQ, Yes
+Snapshot of FISH546 join, Yes
+fish546 Module 2 Joining Tables, Yes
+fish546_module1_blast_table, Yes
+associations_uni_swisspro_012410, Yes
+Sockeye join Uniprot, Yes
+uniprot_sprot_title, Yes
+Sockeye SOLiD assembly BLAST Output (Swiss-PROT), Yes
+GO_to_GOslim, Yes
+RNAseq_AbCECC_denovo, Yes
+AbaloneCC_CEdenovo, Yes
+SeaFan SwissProt Top Blast Hit, Yes
